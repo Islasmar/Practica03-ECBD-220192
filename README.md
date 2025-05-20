@@ -3,7 +3,7 @@
 **Universidad Tecnológica de Xicotepec de Juárez**  
 **Carrera:** Tecnologías de la Información  
 **Materia:** Extracción de Conocimiento en Bases de Datos  
-**Matrícula:** 220031  
+**Matrícula:** 220192 
 
 ---
 
@@ -76,5 +76,5 @@ Se realizaron pruebas funcionales para confirmar que cada intent responde correc
 
 ## 📌 Autor
 
-- **Nombre:** [Tu Nombre Aquí]
-- **Matrícula:** 220031
+- **Nombre:** Mariano Islas
+- **Matrícula:** 220192
